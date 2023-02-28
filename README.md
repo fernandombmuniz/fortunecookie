@@ -1,0 +1,1 @@
+This was a small challenge from the rocketseat course, where we used DOM manipulation to create a fortune cookie app, where clicking on the fortune cookie image opens a new modal, with the opened cookie and the message of your luck. This message is randomly generated from a list array. We used only HTML, CSS, and Javascript.
